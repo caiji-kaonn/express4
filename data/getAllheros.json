@@ -1,0 +1,25 @@
+[{
+        "id": -1,
+        "name": "闹闹",
+        "gender": "男",
+        "img": "../assets/image/0.jpg"
+    },
+    {
+        "id": -2,
+        "name": "嘿嘿",
+        "gender": "女",
+        "img": "../assets/image/1.jpg"
+    },
+    {
+        "id": -3,
+        "name": "长长",
+        "gender": "男",
+        "img": "../assets/image/2.jpg"
+    },
+    {
+        "id": -4,
+        "name": "嘻嘻",
+        "gender": "女",
+        "img": "../assets/image/3.jpg"
+    }
+]
